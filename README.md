@@ -57,6 +57,8 @@ logger - Get log file
 Contributions are welcome.
 
 ### Thanks to [Pyrogram](https://github.com/pyrogram/pyrogram)
+### Thanks to [Mahesh0253](https://github.com/Mahesh0253)
 
 ### License
 Code released under [The GNU General Public License](LICENSE).
+
